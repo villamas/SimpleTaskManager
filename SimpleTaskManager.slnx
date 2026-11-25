@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SimpleTaskManager.Api/SimpleTaskManager.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SimpleTaskManager.Tests/SimpleTaskManager.Tests.csproj" />
+  </Folder>
+</Solution>

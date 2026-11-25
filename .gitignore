@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Assessment/evidence
+/Assessment/docs
+
+# Local database and SQLite journal files
+src/SimpleTaskManager.Api/App_Data/*.db
+src/SimpleTaskManager.Api/App_Data/*.db-*
+
+# .NET build output
+**/bin/
+**/obj/
+TestResults/
+/.playwright-mcp
+/artifacts
